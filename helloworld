@@ -1,4 +1,4 @@
-get hello:
-    print("Hello World")
+def hello:
+    print("hello World")
     
 Hello
